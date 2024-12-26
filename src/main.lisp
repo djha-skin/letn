@@ -1,4 +1,5 @@
-;;;; main.lisp -- A Clojure-like Loop/Recur implementation.
+;;;; main.lisp -- Tail-call-recursive named lets for Common Lisp. Inspired by
+;;;;              Clojure's Loop/Recur.
 ;;;;
 ;;;; SPDX-FileCopyrightText: 2024 Daniel Jay Haskin
 ;;;; SPDX-License-Identifier: MIT
